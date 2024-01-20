@@ -58,7 +58,7 @@
 	}
 
 	.hero-img {
-		width: 6cap;
+		width: 90%;
 	}
 
 	.hero-text-box,
@@ -105,6 +105,7 @@
 
 	.btn-mobile-nav {
 		display: block;
+		z-index: 1000;
 	}
 
 	.main-nav {
